@@ -6,7 +6,7 @@
 
 ### _Link to the Site_
 
-https://rjashby.github.io/Portfolio-Landing/
+* https://rjashby.github.io/Portfolio-Landing/
 
 ## Technologies Used 
 
