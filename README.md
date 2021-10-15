@@ -4,7 +4,7 @@
 
 #### _This Page serves as a collection of all coding projects and work to date_ 
 
-### Link to the Site
+### _Link to the Site_
 
 https://rjashby.github.io/Portfolio-Landing/
 
