@@ -1,29 +1,33 @@
-# _{Application Name}_ 
+# _Portfolio Landing Page_ 
 
-#### By _**{List of contributors}**_ 
+#### By _**{Ryan Ashby}**_ 
 
-#### _{Brief description of application}_ 
+#### _{This Page serves as a collection of all coding projects and work to date}_ 
 
 ## Technologies Used 
 
-* _List all_ 
-* _the major technologies_ 
-* _you used in your project_ 
-* _here_ 
+* _HTML_ 
+* _CSS_ 
+* _Markdown_ 
+* _Bootstrap_ 
 
 ## Description 
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_ 
+_{Here you will find a collection of all work created and completed by Ryan J. Ashby. The page will continue to serve as a repository for ongoing work into the future, as a way to display examples of knowledge gained and displayed through increasingly advanced levels of coding and technical application of different coding languages and techniques.}_ 
 
 ## Setup/Installation Requirements 
 
-* _This is a great place_ 
-* _to list setup instructions_ 
-* _in a simple_ 
-* _easy-to-understand_ 
-* _format_ 
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_ 
+* _In order to utilize this page, you will need to clone a copy of this repository to your workspace using the "$ git clone {url}" in your coding terminal._ 
+* _Once cloned you will need software to edit and further contribute to the code. You can download a free at https://code.visualstudio.com/_.
+* _Additionally, you will need to sign up for a Github account, which can be done for free at https://github.com/_.  
+* _Once you have your Github account, create a repository in your personal Github page for you to save your changes and publish them to Github for ease of access and use_
+* _Create a way to save your changes to your own personal Github account by adding a remote to your page via the command "$ git remote add {nickname for your remote} {url of your github repository}."_
+* _For example, the commany "$ git remote add ra https://github.com/epicodus-lessons/hi-everyone," would add a new remote called "ra" located at "https://github.com/epicodus-lessons/hi-everyone".
+* _Once any changes are made, utilize the command "$ git add ." to add the necessary files to be committed_
+* _To commit any changes, use the command "$ git commit -m "description of what was altered for ease of reference."_
+* _For example, the command "$ git commit -m "create initial html and stylesheet pages," would be a short and concise example of a good initial commit to push to your repository.
+* _To push and save the changes to your Github repository, use the command "$git push {nickname for your remote} {url of your github repository}."_ 
+* _At anytime you are unsure of what you have recently editted or added, the command "$ git status" will tell you what has been recently altered in the git._
 
 ## Known Bugs 
 
