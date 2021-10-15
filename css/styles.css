@@ -1,14 +1,12 @@
 h1 {
   color: wheat;
 }
-
 .container {
-  background-color: slategray;
+  background-color: lightseagreen;
 }
 
 .card {
   background-color: slategray;
-  font-style: italic;
 }
 
 .jumbotron {
