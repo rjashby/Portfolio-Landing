@@ -63,3 +63,8 @@ h3 {
   font-family: fantasy;
   font-style: italic;
 }
+
+div h2 {
+  text-align: center;
+  font-style: italic;
+}
