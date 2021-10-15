@@ -58,3 +58,8 @@ h3 {
   background-color: slategray;
   box-sizing: border-box;
 }
+
+.past {
+  font-family: fantasy;
+  font-style: italic;
+}
