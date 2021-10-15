@@ -1,8 +1,8 @@
 # _Portfolio Landing Page_ 
 
-#### By _**{Ryan Ashby}**_ 
+#### By _**Ryan Ashby**_ 
 
-#### _{This Page serves as a collection of all coding projects and work to date}_ 
+#### _This Page serves as a collection of all coding projects and work to date_ 
 
 ## Technologies Used 
 
@@ -13,7 +13,7 @@
 
 ## Description 
 
-_{Here you will find a collection of all work created and completed by Ryan J. Ashby. The page will continue to serve as a repository for ongoing work into the future, as a way to display examples of knowledge gained and displayed through increasingly advanced levels of coding and technical application of different coding languages and techniques.}_ 
+_Here you will find a collection of all work created and completed by Ryan J. Ashby. The page will continue to serve as a repository for ongoing work into the future, as a way to display examples of knowledge gained and displayed through increasingly advanced levels of coding and technical application of different coding languages and techniques._ 
 
 ## Setup/Installation Requirements 
 
@@ -41,5 +41,5 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Copyright (c) _October 15, 2021_ _Ryan Ashby_
+Copyright (c) _October 15, 2021_, _Ryan Ashby_
 
