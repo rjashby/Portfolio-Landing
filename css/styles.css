@@ -1,0 +1,16 @@
+.container {
+  background-color: lightseagreen;
+}
+
+.card {
+  background-color: slategray;
+}
+
+.jumbotron {
+  background-color: slategray;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
