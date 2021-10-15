@@ -25,7 +25,7 @@ _Here you will find a collection of all work created and completed by Ryan J. As
 * _Additionally, you will need to sign up for a Github account, which can be done for free at https://github.com/_.  
 * _Once you have your Github account, create a repository in your personal Github page for you to save your changes and publish them to Github for ease of access and use_
 * _Create a way to save your changes to your own personal Github account by adding a remote to your page via the command "$ git remote add {nickname for your remote} {url of your github repository}."_
-* _For example, the command "$ git remote add ra https://github.com/epicodus-lessons/hi-everyone," would add a new remote called "ra" located at "https://github.com/epicodus-lessons/hi-everyone".
+* _For example, the command "$ git remote add ra https://github.com/rjashby/interior-decorator," would add a new remote called "ra" located at "https://github.com/rjashby/interior-decorator".
 * _Once any changes are made, utilize the command "$ git add ." to add the necessary files to be committed_
 * _To commit any changes, use the command "$ git commit -m "description of what was altered for ease of reference."_
 * _For example, the command "$ git commit -m "create initial html and style sheet pages," would be a short and concise example of a good initial commit to push to your repository.
