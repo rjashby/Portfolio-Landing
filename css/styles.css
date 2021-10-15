@@ -31,11 +31,28 @@ h3 {
 
 .card {
   background-color: slategray;
+  margin: 5px;
+  border: 2px solid black;
+  padding: 5px;
 }
 
 .jumbotron {
   background-color: slategray;
   text-align: center;
+  margin: 5px;
+  border: 2px solid black;
+  padding: 5px;
+}
+
+img {
+  margin: auto;
+  margin: 3px;
+  border: 2px solid lightseagreen;
+  padding: 3px;
+}
+
+.card-title {
+  color: wheat;
 }
 
 .column1 {
